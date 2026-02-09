@@ -13,9 +13,8 @@ En esta sección se presenta la documentación completa del proyecto, incluyendo
 - Consideraciones metodológicas y limitaciones  
 
 **Dudas e inquietudes**
-Daneyro Culchac
-Estudiante MIAD
-Universidad de los Andes
+
+Daneyro Culchac - Estudiante MIAD - Universidad de los Andes
 e-mail: d.culchac@uniandes.edu.co
 
 ## Documento en PDF
