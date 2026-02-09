@@ -12,13 +12,9 @@ En esta sección se presenta la documentación completa del proyecto, incluyendo
 - Proceso de actualización y mantenimiento del dashboard  
 - Consideraciones metodológicas y limitaciones  
 
+
 ## Documento en PDF
 
-<iframe
-  src="/assets/docs/documentacion_dashboard.pdf"
-  width="100%"
-  height="900"
-></iframe>
+[📄 Ver / descargar documentación en PDF](/assets/docs/documentacion_dashboard.pdf){:target="_blank"}
 
-[📄 Descargar documentación en PDF](/assets/docs/documentacion_dashboard.pdf)
 
