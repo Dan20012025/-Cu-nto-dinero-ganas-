@@ -3,11 +3,11 @@ title: Inicio
 nav_order: 1
 ---
 
-# Salary Analytics Dashboard
+# ¿Excelentes condiciones salariales? Quedate aquí y lo sabrás
 
-Este sitio web presenta el tablero interactivo y la documentación asociada al proyecto **How much money do you make?**, basado en la encuesta realizada por Alison Green en 2021.
+Este sitio web presenta el tablero interactivo y la documentación asociada al análisis salarial de **How much money do you make?**, basado en la encuesta realizada por Alison Green en 2021.
 
-El objetivo del proyecto es analizar la distribución salarial considerando variables demográficas, geográficas y profesionales, aplicando procesos de limpieza, transformación y estandarización de datos.
+El objetivo es identificar la distribución salarial considerando variables demográficas, geográficas y profesionales, aplicando procesos de limpieza, transformación y estandarización de datos.
 
 En este sitio encontrará:
 
