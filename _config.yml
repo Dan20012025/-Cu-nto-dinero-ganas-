@@ -1,6 +1,7 @@
 title: Salary Analytics Dashboard
 description: Documentación y tablero interactivo del proyecto de analítica salarial
-theme: just-the-docs
+
+remote_theme: just-the-docs/just-the-docs
 
 nav_enabled: true
 
