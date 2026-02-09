@@ -15,9 +15,10 @@ En esta sección se presenta la documentación completa del proyecto, incluyendo
 ## Documento en PDF
 
 <iframe
-  src="../assets/docs/documentacion_dashboard.pdf"
+  src="/assets/docs/documentacion_dashboard.pdf"
   width="100%"
   height="900"
 ></iframe>
 
-[📄 Descargar documentación en PDF](../assets/docs/documentacion_dashboard.pdf)
+[📄 Descargar documentación en PDF](/assets/docs/documentacion_dashboard.pdf)
+
