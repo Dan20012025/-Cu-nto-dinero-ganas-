@@ -5,7 +5,7 @@ nav_order: 1
 
 # ¿Excelentes condiciones salariales? Quedate aquí y lo sabrás
 
-Este sitio web presenta el tablero interactivo y la documentación asociada al análisis salarial de **How much money do you make?**, basado en la encuesta realizada por Alison Green en 2021.
+Este sitio web presenta el tablero interactivo y la documentación asociada al análisis salarial de **How much money do you make?** (¿Cuánto dinero ganas?, basado en la encuesta realizada por Alison Green en 2021.
 
 El objetivo es identificar la distribución salarial considerando variables demográficas, geográficas y profesionales, aplicando procesos de limpieza, transformación y estandarización de datos.
 
