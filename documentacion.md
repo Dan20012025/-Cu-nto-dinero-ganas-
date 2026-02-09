@@ -15,6 +15,6 @@ En esta sección se presenta la documentación completa del proyecto, incluyendo
 
 ## Documento en PDF
 
-[📄 Ver / descargar documentación en PDF](/assets/docs/documentacion_dashboard.pdf){:target="_blank"}
+[ Descargar documentación (PDF)](/assets/docs/documentacion_dashboard.pdf)
 
 
