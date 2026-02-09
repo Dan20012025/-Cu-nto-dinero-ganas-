@@ -1,0 +1,8 @@
+title: Salary Analytics Dashboard
+description: Documentación y tablero interactivo del proyecto de analítica salarial
+theme: just-the-docs
+
+nav_enabled: true
+
+aux_links:
+  Repositorio en GitHub: https://github.com/TU_USUARIO/TU_REPO
